@@ -1,0 +1,20 @@
+{
+  "name": "licenselookup",
+  "version": "1.0.0",
+  "description": "Contractor License Lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daddy",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {
+    "karma-webpack": "^2.0.5",
+    "karma-webpack-with-fast-source-maps": "^1.10.2"
+  }
+  
+}
